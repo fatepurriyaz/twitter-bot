@@ -27,8 +27,10 @@ class TwitterBot():
             "text": "tweet something cool for #technology"
         },
         {
-            "hashtag": "@kachkol_asa",
-            "text": "tweet something cool for @kachkol_asa from twitter"
+            "hashtag": "@KaplanRom
+",
+            "text": "tweet something cool for @KaplanRom
+ from twitter"
         },
     ]
 
